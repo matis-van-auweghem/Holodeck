@@ -18,7 +18,10 @@ Contenant un serveur Web, un serveur ftp tout deux avec un certificat TLS. Ainsi
 ## 2. La mise en place des deux VM
 ### 2.1 Vm serveur 
 - 32 Go de stockage
-      ![stockage Vm:](./images/image.png)
+  <p align="center">
+  <img src="./images/image.png" width="600">
+</p>
+      
 - 2 GO de RAM
       ![RAM de la VM](./images/RAM-vm.png)
 - 2 vCPU
