@@ -18,18 +18,30 @@ Contenant un serveur Web, un serveur ftp tout deux avec un certificat TLS. Ainsi
 ## 2. La mise en place des deux VM
 ### 2.1 Vm serveur 
 - 32 Go de stockage
-  <p align="center">
+<p align="center">
   <img src="./images/image.png" width="600">
 </p>
       
 - 2 GO de RAM
-      ![RAM de la VM](./images/RAM-vm.png)
+<p align="center">
+  <img src="./images/RAM-vm.png" width="600">
+</p>
+
 - 2 vCPU
-      ![CPU de la VM](./images/vCPU.png)
+ <p align="center">
+  <img src="./images/vCPU.png" width="600">
+</p>
+     
 - 2 cartes réseaux une lan et une wan
-  ![cartes réseaux](./images/cartes-réseaux.png)
+  <p align="center">
+  <img src="./images/cartes-réseaux.png" width="600">
+</p>
+
 - VM en CLI
-  ![debian en CLI](./images/Debian-cli.png)
+ <p align="center">
+  <img src="./images/Debian-cli.png" width="600">
+</p>
+
 ### 2.2 VM cliente
 - VM en GUI
 - 16 Go de stckage ![Stockage-client](./images/Stockage%20client.png)
