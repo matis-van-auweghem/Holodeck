@@ -17,13 +17,10 @@ Contenant un serveur Web, un serveur ftp tout deux avec un certificat TLS. Ainsi
 - PHP, MariaDB, et Nginx doivent être la dernière version
 ## 2. La mise en place des deux VM
 ### 2.1 Vm serveur 
-<br><br>
+<br>
 - 32 Go de stockage ![stockage Vm:](./images/image.png)
->
 - 2 GO de RAM ![RAM de la VM](./images/RAM-vm.png)
->
 - 2 vCPU ![CPU de la VM](./images/vCPU.png)
->
 - 2 cartes réseaux une lan et une wan ![cartes réseaux](./images/cartes-réseaux.png)
 - VM en CLI ![debian en CLI](./images/Debian-cli.png)
 ### 2.2 VM cliente
