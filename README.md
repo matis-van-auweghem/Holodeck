@@ -68,7 +68,7 @@ INTERFACESv4="ens33"
 authoritative;
 
 subnet 192.168.10.0 netmask 255.255.255.0 {
-    range 192.168.10.100 192.168.10.200;
+    range 192.168.10.100 192.168.10.200; # plage d'adresse
     option routers 192.168.10.1;
     option domain-name-servers 192.168.10.1;
     option domain-name "starfleet.lan";
