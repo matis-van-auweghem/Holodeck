@@ -44,8 +44,15 @@ Contenant un serveur Web, un serveur ftp tout deux avec un certificat TLS. Ainsi
 
 ### 2.2 VM cliente
 - VM en GUI
-- 16 Go de stckage ![Stockage-client](./images/Stockage%20client.png)
-- carte réseau sur le lan ![carte réseau client](./images/client-lan.png)
+- 16 Go de stckage
+<p align="center">
+  <img src="./images/Stockage%20client.png" width="600">
+</p>  
+- carte réseau sur le lan 
+<p align="center">
+  <img src="./images/client-lan.png" width="600">
+</p>  
+
 ## 3. configuration DNS et DHCP
 ### 3.1 Configuration DHCP
 
