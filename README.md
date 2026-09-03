@@ -104,3 +104,6 @@ php             IN      A       192.168.10.1
 admin           IN      A       192.168.10.1
 vscore          IN      A       192.168.10.1
 ```
+```bash
+Ajout Alex
+```
